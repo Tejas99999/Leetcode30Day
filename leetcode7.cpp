@@ -12,6 +12,7 @@
  */
 class Solution {
       vector<int>v;
+      vector<int> v1;
     vector<int>w;
 public:
     int getdepth(int x,TreeNode* root)
